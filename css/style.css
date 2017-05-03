@@ -7,9 +7,10 @@ font-size: 2em;
   display:flex;
   padding:10px;
   align-content: center;
-  margin:auto;
+  margin: 0 auto;
 }
 
 .item{
   flex-grow:
+  margin: 0 auto;
 }
