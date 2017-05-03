@@ -6,7 +6,8 @@ size: 20em;
 #wrapper{
   display:flex;
   padding:10px;
-  align-content: space-between;
+  align-content: center;
+  margin:auto;
 }
 
 .item{
