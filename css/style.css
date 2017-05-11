@@ -11,6 +11,14 @@ font-size: 2em;
   align-content: center;
   margin: 0 auto;
 }
+#top{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  padding:10px;
+  align-content: center;
+  margin: 0 auto;
+}
 
 .item{
   /*flex-grow:*/
