@@ -14,5 +14,6 @@ font-size: 2em;
   /*flex-grow:*/
   margin: 0 auto;
   font-size: 2em;
-  color: blue;
+  color:blue;
+  padding: 20px;
 }
