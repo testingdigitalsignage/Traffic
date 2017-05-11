@@ -13,4 +13,5 @@ font-size: 2em;
 .item{
   /*flex-grow:*/
   margin: 0 auto;
+  font-size: 2em;
 }
