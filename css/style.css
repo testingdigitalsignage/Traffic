@@ -31,11 +31,11 @@ font-size: 2em;
 .number{
   height: 200px;
   width: 200px;
-  font-size: 2em;
+  font-size: 3em;
   color:aqua;
   margin: 0 auto;
     text-align: center;
-vertical-align: middle 
+line-height: 200px;
 }
 
 #map{
@@ -43,4 +43,5 @@ vertical-align: middle
   width:1000px;
   background-color: aqua;
   margin: 0 auto;
+  padding-bottom: 20px;
 }
