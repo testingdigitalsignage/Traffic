@@ -33,10 +33,12 @@ font-size: 2em;
   width: 200px;
   font-size: 2em;
   color:aqua;
+  margin: 0 auto;
 }
 
 #map{
   height: 1000px;
   width:1000px;
-  background-color: blue;
+  background-color: aqua;
+  margin: 0 auto;
 }
